@@ -1,2 +1,2 @@
 # LoGaNN_keras
-Logic Gates Neural Networks
+Logic Gates Neural Networks using keras library
